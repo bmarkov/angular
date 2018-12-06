@@ -447,7 +447,13 @@
             "rev": true,
             "title": "Simple Quality UI",
             "url": "https://sq-ui.github.io/ng-sq-ui/#/"
-          }
+          },
+          "smart": {
+            "desc": "Web Components for Angular. ",
+            "rev": true,
+            "title": "Smart Web Components",
+            "url": "https://www.htmlelements.com/demos/"
+          },
         }
       }
     }
